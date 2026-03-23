@@ -273,3 +273,5 @@ input[type="email"] {
   box-sizing: border-box; /* Ensures padding doesn't cause overflow */
   padding: 10px;          /* Optional: adds space inside */
 }
+
+/* End Form Styles */
